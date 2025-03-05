@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="44104" id="org.vmcvietnam.elearning" ios-CFBundleVersion="4.4.1.4" version="4.4.1" versionCode="44104" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>VMC</name>
-    <description>VMC official app</description>
+<widget android-versionCode="44204" id="org.vmcvietnam.elearning" ios-CFBundleVersion="4.4.2.4" version="4.4.2" versionCode="44204" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>OmE</name>
+    <description>OmE official app</description>
     <author email="mobile@moodle.com" href="http://moodle.com">TH Mobile team</author>
     <content src="index.html" />
     <access origin="*" />
