@@ -259,7 +259,7 @@ export class CoreUrlUtilsProvider {
             }
         }
 
-        docsUrl = "https://vmcvietnam.org/";
+        docsUrl = "https://ome.edu.vn/";
 
         try {
             let lang = await CoreLang.getCurrentLanguage(CoreLangFormat.LMS);
